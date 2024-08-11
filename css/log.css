@@ -1,0 +1,68 @@
+.all{
+    background-color:#E5F5F9;
+    
+}
+.info{
+    background-color:white;
+    border:none;
+    height:250px;
+    width:500px;
+    padding-top:25px;
+    margin:40px;
+    margin-top:90px;
+    text-align:center;
+    margin-left:350px;
+}
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+.btn{
+    background-color:#B2E6CE;
+    padding:5px;
+    width:100px;
+    height:35px;
+    font-family:'Times New Roman', Times, serif;
+    font-size:15px;
+    font-weight:bold;
+}
+.no-underline {
+    
+    text-decoration: none;
+    color: navy;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.foot{
+    background-color:#B2E6CE;
+    height:250px;
+
+}
+.contact{
+    padding-top:15px;
+}
+.contact1{
+    margin-left:120px;
+    padding-bottom:5px;
+}
+.footimg{
+    margin-left:80px; 
+  
+}
+.Quick{
+    margin-left:500px;
+    margin-top:-150px;
+}
+.quick{
+    padding-top:10px;
+    padding-bottom:5px;
+}
+.Follow{
+    margin-left:900px;
+    margin-top:-180px;
+}
+.follow{
+    padding-top:45px;
+    padding-bottom:5px;
+}
